@@ -33,20 +33,17 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-A syntax error occured due to an unexpected token 'newline'
-
+Desktop/   Documents/ Downloads/
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
-v314-ent-016:~ student$ cd Desktop/
-
+Desktop/   Documents/ Downloads/ 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
-v314-ent-016:Desktop student$ 
-
+No such file or directory
 ==========
 3.  Type:
 
@@ -75,8 +72,8 @@ Copy and paste the first *two lines* of output below.
 
 What command was repeated?
 ----------
-No, I received a syntax error. 
-
+.			Fritzing		Pro Tools
+..			MATLAB			Processing
 
 ==========
 6.  Type:
@@ -85,8 +82,8 @@ No, I received a syntax error.
 
 What command was repeated?
 ----------
-No, I received another syntax error.
-
+.			Fritzing		Pro Tools
+..			MATLAB			Processing
 
 ==========
 7.  Type:
@@ -95,8 +92,7 @@ $ ls /Vol<TAB><ENTER>
 
 What is the result of pressing tab?
 ----------
-"No such file or directory"
-
+Macintosh HD		firmwaresyncd.J7UvQN
 
 ==========
 8.  Type:
